@@ -6,6 +6,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 
 module.exports = withBundleAnalyzer({
   images: {
-    domains: ['pbs.twimg.com']
+    domains: ['pbs.twimg.com', 'applegate-paul.mo.cloudinary.net'],
+    formats: ['image/avif', 'image/webp'],
   }
 })
