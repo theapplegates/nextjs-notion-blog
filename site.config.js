@@ -5,7 +5,7 @@ module.exports = {
   // https://separated-muenster-944.notion.site/Demo-Site-Not-my-content-yet-3bcfe79b7fb543f88424bd9ae4283681
 
   // if you want to restrict pages to a single notion workspace (optional)
-  // (this should be a Notion ID; see the docs for how to extract this)
+  // (this should be a Notion ID; hi hi hisee the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
